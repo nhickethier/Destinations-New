@@ -1,0 +1,62 @@
+/*Destinations Website CSS
+*/
+
+
+article, body,div,footer,header,h1,h2,h3,p{
+    margin: 0;
+    padding: 0;
+ }
+.navbar a{
+    text-decoration: none;
+    color:purple;
+    padding: 8px;
+    background-color:#00b38f;
+    margin: 5px;
+   }
+   .navbar a:hover{
+     text-decoration: none;
+     color:orange;
+     padding: 5px;
+     border:1px dashed pink;
+     border-radius: 10px;
+     background-color:#00b33c;
+   }
+   .headerh1 h1{
+       color: black;
+
+   }
+   h1{
+     color: red;
+   }
+   p{
+     color: white;
+   }
+
+
+li{
+    color: teal;
+    align-content: center;
+}
+h1 h2 h3 h4 h5 h6{
+    align-content: center;
+}
+
+footer{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    padding-bottom: 0.8em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    align-content: center;
+}
+
+
+
+
+
+
+
+
+
